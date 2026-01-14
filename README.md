@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me:
 
-<!--
-**allyaiyarak/allyaiyarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Biological Sciences undergraduate with a strong interest in applying data analytics to the fashion and beauty industry.  
+I enjoy turning messy data into clear insights that support brand, marketing, and product decisions.
 
-Here are some ideas to get you started:
+Projects:
+1. Customer Segmentation for a Premium Beauty Brand
+2. Ad Campaign Performance Analysis
+3. Funnel Analysis for E-commerce Conversion
+4. End-to-End Analysis: Raw Data → Insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools;
+- SQL
+- Python
+- R
+- Tableau
+
+Website:
