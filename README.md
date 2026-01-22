@@ -7,7 +7,7 @@ Projects:
 1. Customer Segmentation for a Premium Beauty Brand
 2. Ad Campaign Performance Analysis
 3. Funnel Analysis for E-commerce Conversion
-4. End-to-End Analysis: Raw Data → Insights
+4. End-to-End Analysis
 
 Tools;
 - SQL
