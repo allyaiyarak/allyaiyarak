@@ -3,7 +3,7 @@
 I am a Biological Sciences undergraduate with a strong interest in data analytics.
 I enjoy turning messy data into clear insights that support brand, marketing, and product decisions.
 
-Projects:
+Mock Projects:
 
 1. [Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
 
