@@ -7,7 +7,7 @@ Projects:
 
 1.[Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
 
-2. Ad Campaign Performance Analysis
+2. A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats 
 3. Funnel Analysis for E-commerce Conversion
 4. End-to-End Analysis
 
