@@ -9,8 +9,6 @@ Mock Projects:
 
 2. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats)
    
-3. Funnel Analysis for E-commerce Conversion
-4. End-to-End Analysis
 
 Tools;
 - SQL
