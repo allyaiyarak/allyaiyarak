@@ -7,7 +7,8 @@ Mock Projects:
 
 1. [Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
 
-2. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats) 
+2. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats)
+   
 3. Funnel Analysis for E-commerce Conversion
 4. End-to-End Analysis
 
