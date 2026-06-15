@@ -8,6 +8,9 @@ Mock Projects:
 1. [Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
 
 2. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats)
+
+Final Year Project:
+[Relative Contributions of Donor, Recipient, and Compatibility Factors in Predicting Faecal Microbiota Transplantation Outcomes](https://github.com/allyaiyarak/DISSERTATION)
    
 
 Tools;
