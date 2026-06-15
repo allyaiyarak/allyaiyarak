@@ -18,4 +18,5 @@ Tools;
 - Python
 - R
 - Tableau
+- Power BI
 
