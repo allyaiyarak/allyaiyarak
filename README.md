@@ -5,9 +5,11 @@ I enjoy turning messy data into clear insights that support brand, marketing, an
 
 Mock Projects:
 
-1. [Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
+1. [Predictive Customer Value Retention Analytics](https://github.com/allyaiyarak/Predictive-Customer-Value-Retention-Analytics)
 
-2. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats)
+2. [Ulta Beauty US Product Performance Segmentation](https://github.com/allyaiyarak/ulta-product-segmentation)
+
+3. [A/B Test: Impact of Gate Placement on Player Retention in the Game Cookie Cats](https://github.com/allyaiyarak/ab-testing-cookie-cats)
 
 Final Year Project:
 [Relative Contributions of Donor, Recipient, and Compatibility Factors in Predicting Faecal Microbiota Transplantation Outcomes](https://github.com/allyaiyarak/DISSERTATION)
