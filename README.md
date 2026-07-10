@@ -1,6 +1,6 @@
 ## About me:
 
-I am a Biological Sciences undergraduate with a strong interest in data analytics.
+I am a Biological Sciences graduate with a strong interest in data analytics.
 I enjoy turning messy data into clear insights that support brand, marketing, and product decisions.
 
 Mock Projects:
